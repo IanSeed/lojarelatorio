@@ -1,0 +1,2 @@
+substituir o valor da subtração pelo número randomico porque eles tem o mesmo valor (se o srcipt mostrar a quantidade vendida)
+trocar o += 1 por = quantidade do dicionario original, ai todos os casos de 0 vão respeitar as regras nescessárias
